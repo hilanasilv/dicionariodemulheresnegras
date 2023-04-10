@@ -23,7 +23,6 @@ body {
     text-transform: uppercase;
     margin-bottom: 0;
     color:darkgray;
-    text-align: center;
   }
   
   @media (max-width: 768px) {
